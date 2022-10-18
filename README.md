@@ -1,6 +1,8 @@
  # kotmenu
+![alt text](https://github.com/rajumark/kotmenu/blob/main/KOTLIN%20MENU.png)
 
- | column1               | column2         | column3                 | column4                  |
+
+| column1               | column2         | column3                 | column4                  |
 -----------------------|-----------------|-------------------------|--------------------------|
  | Extension functions   | Open class      | DSL                     | Kotlin symbol processing |
  | Collection Predicates | Sealed class    | Infix function          | function without 'fun'   |
@@ -15,7 +17,8 @@
  | map                   | flatmap         | as, as?, as!!           | smart cast               |
  | Named parameters      | range until ..< | filter                  | takeIf                   |
  | Contravariance        | Covariance      | Sequence                | ?  vs !! vs !            |
- | Annotations           | ENUM            | Aggregate operations    |  
+ | Annotations           | ENUM            | Aggregate operations    | lazy                     |
+ | lateinit              | Fold            | Reduce                  | More comming soon..      |
 
 
 
