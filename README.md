@@ -14,6 +14,20 @@
  | run | with | when | range .. |
  | map | flatmap | as, as?, as!! | smart cast |
  | Named parameters | range until ..< | filter | takeIf |
+ | Contravariance | Covariance | Sequence | ? vs !! vs !|
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 
 
