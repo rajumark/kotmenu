@@ -18,6 +18,8 @@
  | Contravariance        | Covariance      | Sequence                | ?  vs !! vs !            |
  | Annotations           | ENUM            | Aggregate operations    | lazy                     |
  | lateinit              | Fold            | Reduce                  | More comming soon..      |
+ | Koin                  | 
+
 
 
 
