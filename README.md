@@ -4,7 +4,7 @@
 | column1               | column2         | column3                 | column4                  |  column5 |
 -----------------------|-----------------|-------------------------|--------------------------|--------------------------|
  | Extension functions   | Open class      | DSL                     | Kotlin symbol processing | Annotation(System) |
- | Collection Predicates | Sealed class    | Infix function          | function without 'fun'   |
+ | Collection Predicates | Sealed class    | Infix function          | function without 'fun'   | Scope Resolution Operator|
  | Higher order function | Inner class     | Delegation patterns     | Type alias               |
  | Callback function     | Abstract class  | Destructive declaration | SuspendedCoroutine       |
  | Scope functions       | Generic class   | Companion objects       | in-out * projection      |
